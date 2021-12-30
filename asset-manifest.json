@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/faruqbeebz/BlueSpot-blog/static/css/main.ad6ff7fa.chunk.css",
+    "main.js": "/faruqbeebz/BlueSpot-blog/static/js/main.df4e1d24.chunk.js",
+    "main.js.map": "/faruqbeebz/BlueSpot-blog/static/js/main.df4e1d24.chunk.js.map",
+    "runtime-main.js": "/faruqbeebz/BlueSpot-blog/static/js/runtime-main.46384f24.js",
+    "runtime-main.js.map": "/faruqbeebz/BlueSpot-blog/static/js/runtime-main.46384f24.js.map",
+    "static/js/2.dd09a18b.chunk.js": "/faruqbeebz/BlueSpot-blog/static/js/2.dd09a18b.chunk.js",
+    "static/js/2.dd09a18b.chunk.js.map": "/faruqbeebz/BlueSpot-blog/static/js/2.dd09a18b.chunk.js.map",
+    "index.html": "/faruqbeebz/BlueSpot-blog/index.html",
+    "precache-manifest.ec186a88cceb6883be816eacdc1398d3.js": "/faruqbeebz/BlueSpot-blog/precache-manifest.ec186a88cceb6883be816eacdc1398d3.js",
+    "service-worker.js": "/faruqbeebz/BlueSpot-blog/service-worker.js",
+    "static/css/main.ad6ff7fa.chunk.css.map": "/faruqbeebz/BlueSpot-blog/static/css/main.ad6ff7fa.chunk.css.map",
+    "static/js/2.dd09a18b.chunk.js.LICENSE.txt": "/faruqbeebz/BlueSpot-blog/static/js/2.dd09a18b.chunk.js.LICENSE.txt",
+    "static/media/bg2.jpg": "/faruqbeebz/BlueSpot-blog/static/media/bg2.3a3ff03f.jpg",
+    "static/media/me.jpeg": "/faruqbeebz/BlueSpot-blog/static/media/me.d9475ac9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46384f24.js",
+    "static/js/2.dd09a18b.chunk.js",
+    "static/css/main.ad6ff7fa.chunk.css",
+    "static/js/main.df4e1d24.chunk.js"
+  ]
+}
