@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/faruqbeebz/BlueSpot-blog/precache-manifest.ec186a88cceb6883be816eacdc1398d3.js"
+  "/faruqbeebz/BlueSpot-blog/precache-manifest.f97ce2b6e16b576f47a87a6c16bad59a.js"
 );
 
 self.addEventListener('message', (event) => {

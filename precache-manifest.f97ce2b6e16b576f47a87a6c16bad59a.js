@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e13023d3d3c7df09e86dff578c12928e",
+    "revision": "a0784a19851a1ddf32567febbb91852e",
     "url": "/faruqbeebz/BlueSpot-blog/index.html"
   },
   {
